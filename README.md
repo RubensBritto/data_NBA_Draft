@@ -40,4 +40,4 @@
 
 - DraftYr and DraftYear: Duplicate variables for the year a player was drafted. playerurl: A player's college Sports-Reference statistics page link. NA for players from high school/G-League/international.
 
-- MPG, PPG, RPG, APG: Per game statistics computed from totals columns. NA for players who did not play in the NBA.
+- MPG, PPG, RPG, APG: Per game statistics computed from totals columns. NA for players who did not play in the NBA
